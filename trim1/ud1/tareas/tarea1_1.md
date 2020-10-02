@@ -1,3 +1,6 @@
+# Introducc
+
+![Ejemplo] (./bae_alejandroPerez/trim1/ud1/tareas!)
 
     ¿Qué es un archivo o fichero?
     Tipos de ficheros.
