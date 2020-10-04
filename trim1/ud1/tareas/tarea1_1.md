@@ -3,7 +3,7 @@
 **1. ¿Qué es un archivo o fichero?**
 
 Es un conjunto de ***bytes*** que se llegan almacenar en un dispositivo. Un archivo o fichero se identifican por un nombre y la descripción de la carpeta o directorio que lo contiene.
-! [Texto alternativo] (/ bae_alejandroPerez / trim1 / ud1 / tareas / Archivos.jpg "Título opcional")
+![Esta es una imagen de ejemplo](https://concepto.de/wp-content/uploads/2018/04/archivos-informaticos-min-e1523384607327.jpg)
 ___
 **2. Tipos de ficheros.**
 ___
