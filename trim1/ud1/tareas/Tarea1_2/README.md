@@ -22,15 +22,15 @@ Buscamos en la pagina de Xampp: https://www.apachefriends.org/es/index.html y ah
 
 
 
-![imagen6](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador.png.png "Título alternativo")
+![imagen6](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador.png "Título alternativo")
 
 
 
-![imagen7](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador1.png.png "Título alternativo")
+![imagen7](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador1.png "Título alternativo")
 
 
 
-![imagen8](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador2.png.png "Título alternativo")
+![imagen8](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador2.png "Título alternativo")
 
 
 
