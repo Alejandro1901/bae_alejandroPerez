@@ -8,5 +8,5 @@
 ![imagen6](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador.png.png "Título alternativo")
 ![imagen7](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador1.png.png "Título alternativo")
 ![imagen8](/trim1/ud1/tareas/Tarea1_2/Usuario_administrador2.png.png "Título alternativo")
-![imagen9](/trim1/ud1/tareas/Tarea1_2/Verbasededatos 1.png "Título alternativo")
+![imagen9](/trim1/ud1/tareas/Tarea1_2/Verbasededatos1.png "Título alternativo")
 ![imagen10](/trim1/ud1/tareas/Tarea1_2/showtables.png "Título alternativo")
