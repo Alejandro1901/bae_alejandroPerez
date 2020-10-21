@@ -42,10 +42,10 @@ Aqui, lo que haremos es meter el usuario a la base de datos.
 
 ![imagen9](/trim1/ud1/tareas/Tarea1_3/imagen9_3.png "Título alternativo")
 
-
+Aqui salimos del MySQL para despues meternos de nuevo pero con el usuario secretaria que fue el que creamos antes.
 
 ![imagen10](/trim1/ud1/tareas/Tarea1_3/imagen9_4.png "Título alternativo")
 
-
+Y finalmente vemos que usuarios estan en la base de datos administración y solo puede consultar el usuario Secretaria
 
 ![imagen11](/trim1/ud1/tareas/Tarea1_3/imagen9_5.png "Título alternativo")
